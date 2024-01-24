@@ -1,1 +1,1 @@
-1[factual statement](discord.png)
+![factual statement](discord.png)
