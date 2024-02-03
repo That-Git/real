@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import termplotlib.pyplot as plt
 import numpy as np
 
 def lorenz(xyz, *, s=10, r=28, b=2.667):
